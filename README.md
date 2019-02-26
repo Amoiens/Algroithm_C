@@ -1,6 +1,6 @@
 # Algroithm_C
 
-author: YXP
+author: YXP  
 e-mail: yxp189@protonmail.com
 
 There are some codes, which all arecoded in C (language). These codes implemente different algorithm. 
