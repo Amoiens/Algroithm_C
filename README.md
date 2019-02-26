@@ -1,4 +1,4 @@
-# Algroithm_C
+# Algroithm_in C
 
 author: YXP  
 e-mail: yxp189@protonmail.com
