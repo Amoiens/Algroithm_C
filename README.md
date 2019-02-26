@@ -3,7 +3,7 @@
 author: YXP
 e-mail: yxp189@protonmail.com
 
-There are some code, which is coded in C (language). These codes implemente different algorithm. 
+There are some codes, which all arecoded in C (language). These codes implemente different algorithm. 
 (More details please read the README file)
 This floder will develop guadually and continutly.
 
